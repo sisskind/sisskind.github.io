@@ -1,13 +1,16 @@
-# Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Masters of Engineering, Systems Engineering
+  uni: Stevens Institute of Technology
+  year: 2012 &mdash; 2015
+  award: Certificates in Software Engineering and Systems Architecture
+  summary: Thesis&#58; <i>Value Based Processes for Off the Shelf Geospatial Applications</i>
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Masters of Arts, Geography
+  uni: University at Albany (SUNY)
+  year: 2007 &mdash; 2008
+  award: Concentration in Geographic Information Systems (GIS)
+  summary: Winter Commencement Salutatorian
+
+- degree: Bachelor of Arts, Geography and  Meteorology
+  uni: University at Albany (SUNY)
+  year: 2003 &mdash; 2007
+  award: Certificate in GIS and Spatial Analysis

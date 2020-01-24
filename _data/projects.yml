@@ -1,16 +1,20 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: NOME
+  role: PM, Software Developer
+  duration: 2015 &mdash; Present
+  url: "https://www.nga.mil/ProductsServices/Pages/nome.aspx"
+  description: NOME is an online capability where a community of screened users can edit existing content and contribute new features to maps throughout the world.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Hootenanny
+  role: Software Developer
+  duration: 2015 &mdash; Present
+  url: "https://github.com/ngageoint/hootenanny"
+  description: Hootenanny is an open source conflation tool developed with machine learning techniques to facilitate automated and semi-automated conflation of critical Foundation GEOINT features in the topographic domain.
+
+- project: Helios
+  role: Initial prototype design and concept
+  duration: 2011
+  url: "https://www.harris.com/solution/helios-real-time-ground-weather-intelligence"
+  description: Co-authored <a target="_blank" href="http://ams.confex.com/ams/92Annual/webprogram/Paper202905.html">initial concept</a> for a real-time adaptive weather surveillance system using integrated camera networks and enhanced geospatial processing algorithms.

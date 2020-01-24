@@ -1,12 +1,10 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Software Development
+  description: Strong knowledge of software development best practices, including agile software development and tools (Jira/Confluence, MS Project). Experienced in front-end/services tier development and database administration (JavaScript, Python, PostgreSQL).
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Geographic Information Systems (GIS)
+  description: Experienced in desktop and web-based GIS software (ESRI, QGIS, OpenStreetMap) and libraries (GDAL/OGR, PROJ, Leaflet, Turf, PostGIS). 
+
+- skill: Leadership and Communication
+  description: Leadership skills along with excellent communication, organizational and people skills, and the ability to work across functional groups.
