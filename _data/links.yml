@@ -1,3 +1,26 @@
-# links
-- url: "http://www.fairfaxband.org"
-  description: City of Fairfax Band (Percussionist)
+- project: Get Your Colleagues Mapping
+  role: Presentation, State of the Map US Conference
+  duration: 2019
+  url: "https://2019.stateofthemap.us/program/sat/get-your-colleagues-mapping-how-to-run-a-corporate-mapathon.html"
+
+- project: Creating and Maintaining Open Source in Government
+  role: Presentation, FOSS4G-NA Conference
+  duration: 2019
+
+- project: Crowdsourcing and Open Mapping in Government
+  role: Moderator, FedGeoDay
+  duration: 2019
+
+- project: Working with OpenStreetMap
+  role: Moderator, FOSS4G-NA Conference
+  duration: 2018
+
+- project: Mapping Houston in Space-Time
+  role: Presentation, State of the Map US Conference
+  duration: 2017
+  url: "https://2017.stateofthemap.us/program/houston-spacetime.html"
+
+- project: Helios
+  role: Paper, 92nd AMS Annual Conference
+  duration: 2012
+  url: "http://ams.confex.com/ams/92Annual/webprogram/Paper202905.html"

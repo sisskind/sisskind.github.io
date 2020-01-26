@@ -12,9 +12,3 @@
   duration: 2015 &mdash; Present
   url: "https://github.com/ngageoint/hootenanny"
   description: Hootenanny is an open source conflation tool developed with machine learning techniques to facilitate automated and semi-automated conflation of critical Foundation GEOINT features in the topographic domain.
-
-- project: Helios
-  role: Initial prototype design and concept
-  duration: 2011
-  url: "https://www.harris.com/solution/helios-real-time-ground-weather-intelligence"
-  description: Co-authored <a target="_blank" href="http://ams.confex.com/ams/92Annual/webprogram/Paper202905.html">initial concept</a> for a real-time adaptive weather surveillance system using integrated camera networks and enhanced geospatial processing algorithms.
