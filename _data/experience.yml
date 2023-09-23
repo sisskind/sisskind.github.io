@@ -1,18 +1,23 @@
 # Jobs
 - company: Maxar Technologies
   position: Senior Manager
-  duration: Feb. 2015 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Responsible for all aspects of program management and the development of technology roadmap of multiple programs support collaborative mapping, geospatial data management, and AI/ML algorithm development.</li><li>Organize and facilitate project planning, daily stand-ups, reviews, retrospectives, sprint/release planning, and demos for internal and external stakeholders. Effectively communicate program plans and updates to executive leadership.</li><li>Contributor to multiple code bases (Python, JavaScript) for geospatial data creation and mapping campaign support, including front-end development for Hootenanny, an open-source conflation tool.</li></ul>
-  
+  duration: Jan. 2022 &mdash; Present
+  summary: Directed business operations for a cross-functional business unit, focusing on accelerating geospatial technology, algorithms, and platforms for Public Sector clients. This involved efficiently managing a portfolio of internal and external programs valued at over $20M, ensuring execution of stakeholder engagement, strategic planning, customer delivery,  monthly reporting to senior and executive leadership teams, and facilitating productive working groups.
+
+- company: Maxar Technologies
+  position: Sr. Technical Program Manager and Software Development Engineer
+  duration: Feb. 2015 &mdash; Dec. 2021
+  summary: Successfully managed a portfolio of U.S. Government and Internal Research and Development programs, valued at over $10M, resulting in collaborative mapping platforms, geospatial data management systems, and innovative AI/ML algorithms. Formulated a strategic technology roadmap to guide project development. Demonstrated exceptional proposal development skills by crafting technical and management volumes that contributed to winning multi-million-dollar awards in response to customer solicitations. Specialized in designing web-based applications and tools for geospatial data creation and management using knowledge of JavaScript, Python, GDAL, and PostGIS, and more.
+
 - company: Leidos
   position: GIS Applications Engineer
   duration:  Sept. 2011 &mdash; Feb. 2015
-  summary: Full-stack GIS Developer creating applications for Desktop and Web platforms using a mix of Commercial (Esri) and Open Source (Boundless/OpenGeo, Leaflet, D3, PostgreSQL, PostGIS) technologies using different languages and libraries (.Net/C#, Python, Java, JavaScript, GDAL).
+  summary: I engineered both desktop (Esri) and web-based (Leaflet) GIS software applications, spanning from basic geoprocessing to advanced extract-translate-load (ETL) workflows. The primary goal was to reduce the time from data acquisition to data exploitation. These applications were complemented by the deployment of custom web-based solutions, desktop software, and versatile tools, which were installed as add-ons or executed as Python Geoprocessing scripts within ESRI ArcGIS software. These solutions played a pivotal role in ensuring that geospatial data deliveries were consistently made on schedule and within budget for our U.S. Government clients.
 
 - company: ITT Geospatial Systems
   position: GIS Specialist
   duration:   Jan. 2009  &mdash; Sept. 2011
-  summary: Using ArcObjects, developed and matured algorithms to complete geoprocessing tasks, including processing and exploting LIDAR point-cloud data. Worked on internal R&D projects in multiple capacities, including project lead, analyst, and systems engineer.
+  summary: I wrote and optimized algorithms to accomplish various geoprocessing tasks, such as processing and exploiting LiDAR point-count data and developing target tracking algorithms within ESRI ArcGIS and MatLab. Additionally, I took the lead in the initial prototype development of a real-time weather surveillance system, leveraging geospatial processing algorithms. Furthermore, I was responsible for designing system engineering diagrams and traceability matrices, particularly for the night-vision business unit.
 
 - company: NYS Bureau of Land Management
   position: GIS Intern

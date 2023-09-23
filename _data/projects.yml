@@ -2,13 +2,13 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 - project: NOME
-  role: PM, Software Developer
-  duration: 2015 &mdash; Present
+  role: Program Manager, Software Developer
+  duration: 2015 &mdash; 2021
   url: "https://www.nga.mil/ProductsServices/Pages/nome.aspx"
   description: NOME is an online capability where a community of screened users can edit existing content and contribute new features to maps throughout the world.
 
 - project: Hootenanny
   role: Software Developer
-  duration: 2015 &mdash; Present
+  duration: 2015 &mdash; 2021
   url: "https://github.com/ngageoint/hootenanny"
   description: Hootenanny is an open source conflation tool developed with machine learning techniques to facilitate automated and semi-automated conflation of critical Foundation GEOINT features in the topographic domain.

@@ -1,10 +1,16 @@
 # Skills
 
+- skill: Program Management
+
+- skill: Operations and Business Planning
+
+- skill: Systems Engineering
+
 - skill: Software Development
-  description: Strong knowledge of software development best practices, including agile software development and tools (Jira/Confluence, MS Project). Experienced in front-end/services tier development and database administration (JavaScript, Python, PostgreSQL).
+  #description: Strong knowledge of software development best practices, including agile software development and tools (Jira/Confluence, MS Project). Experienced in front-end/services tier development and database administration (JavaScript, Python, PostgreSQL).
 
 - skill: Geographic Information Systems (GIS)
-  description: Experienced in desktop and web-based GIS software (ESRI, QGIS, OpenStreetMap) and libraries (GDAL/OGR, PROJ, Leaflet, Turf, PostGIS). 
+  #description: Experienced in desktop and web-based GIS software (ESRI, QGIS, OpenStreetMap) and libraries (GDAL/OGR, PROJ, Leaflet, Turf, PostGIS).
 
 - skill: Leadership and Communication
-  description: Leadership skills along with excellent communication, organizational and people skills, and the ability to work across functional groups.
+  #description: Leadership skills along with excellent communication, organizational and people skills, and the ability to work across functional groups.
